@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Obulesh
+ *
+ */
+module EmailApp {
+}
